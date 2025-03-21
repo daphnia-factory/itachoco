@@ -1,0 +1,22 @@
+{
+    "name": "itachoco",
+    "vendorId": "0xFEED",
+    "productId": "0x0000",
+    "matrix": { "cols": 5, "rows": 1 },
+    "layouts": {
+        "keymap": [
+            [
+                "0,0",
+                "0,1"
+            ],
+            [
+                "0,2",
+                "0,3",
+                {
+                "x": 0.5
+                },
+                "0,4\n\n\n\n\n\n\n\n\ne0"
+            ]
+        ]
+    }
+}
