@@ -8,7 +8,7 @@ itachoco のキーボードを組み立てるためのビルドガイドです�
 ### 1-1. 内容物一覧
 必ずすべての内容物が揃っているか確認してください。
 
-![alt text](84206-03-21-2025_11_32_PM.png)
+![alt text](images/84206-03-21-2025_11_32_PM.png)
 
 
 | 品名 | 番号 | 数 | 備考 |
@@ -29,15 +29,15 @@ itachoco のキーボードを組み立てるためのビルドガイドです�
 2. [REMAP](https://remap-keys.app/) へアクセス
 3. `CUSTOMIZE YOUR KEYBOARD` をクリック
 
-    ![alt text](image.png)
+    ![alt text](images/image.png)
 
 4. `+ KEYBOARD` をクリックし、ポップアップから `itachoco` を選択
 
-    ![alt text](image-1.png)
+    ![alt text](images/image-1.png)
 
 5. 画像のように `itachoco` のキーマップが表示されればOK
 
-    ![alt text](image-2.png)
+    ![alt text](images/image-2.png)
 
 ### 1-3. ケースに大きなキズや歪みが無いか確認
 
@@ -63,62 +63,62 @@ itachoco のキーボードを組み立てるためのビルドガイドです�
 
 🔺`itachoco` のロゴがある方が表になります
 
-![alt text](84202_0.jpg)
+![alt text](images/84202_0.jpg)
 
 黄銅スペーサーを装着する
 
-![alt text](84201_0.jpg)
+![alt text](images/84201_0.jpg)
 
 すべて組付けた後の写真
 
-![alt text](84200_0.jpg)
+![alt text](images/84200_0.jpg)
 
 2. rp2040zero をマスキングテープで固定します
 
-![alt text](84199_0.jpg)
+![alt text](images/84199_0.jpg)
 
-![alt text](84198_0.jpg)
+![alt text](images/84198_0.jpg)
 
 
 3. rp2040zero をはんだ付けします
 
 🔺最初に四隅をはんだ付けするとやりやすいです
 
-![alt text](84193_0.jpg)
+![alt text](images/84193_0.jpg)
 
-![alt text](84192_0.jpg)
+![alt text](images/84192_0.jpg)
 
-![alt text](84189_0.jpg)
+![alt text](images/84189_0.jpg)
 
 ### 3-2. スイッチ
 
 1. スイッチを基盤に組み付けます
 隙間が出来ないようにしっかりとはめこみます
 
-![alt text](84187_0.jpg)
+![alt text](images/84187_0.jpg)
 
-![alt text](84186_0.jpg)
+![alt text](images/84186_0.jpg)
 
-![alt text](84185_0.jpg)
+![alt text](images/84185_0.jpg)
 
-![alt text](84184_0.jpg)
+![alt text](images/84184_0.jpg)
 
 
 2. スイッチをはんだ付けします
 
-![alt text](84178_0.jpg)
+![alt text](images/84178_0.jpg)
 
-![alt text](84181_0.jpg)
+![alt text](images/84181_0.jpg)
 
 ### 3-3. ロータリーエンコーダー
 
 1. ロータリーエンコーダーを基盤に組み付けます
 
-![alt text](84177_0.jpg)
+![alt text](images/84177_0.jpg)
 
-![alt text](84176_0.jpg)
+![alt text](images/84176_0.jpg)
 
-![alt text](84175_0.jpg)
+![alt text](images/84175_0.jpg)
 
 2. ロータリーエンコーダーをはんだ付けします
 
@@ -126,28 +126,28 @@ itachoco のキーボードを組み立てるためのビルドガイドです�
 
 1. ボトムケースと基盤（スペーサー組付け済み）を M2ネジで固定します
 
-![alt text](84174_0.jpg)
+![alt text](images/84174_0.jpg)
 
-![alt text](84173_0.jpg)
+![alt text](images/84173_0.jpg)
 
 2. トップケースを被せ、M2ネジで固定します
 
 
-![alt text](84170_0.jpg)
+![alt text](images/84170_0.jpg)
 
-![alt text](84171_0.jpg)
+![alt text](images/84171_0.jpg)
 
-![alt text](84169_0.jpg)
+![alt text](images/84169_0.jpg)
 
 3. ゴム足を貼り付けます
 
-![alt text](84168_0.jpg)
+![alt text](images/84168_0.jpg)
 
-![alt text](84166_0.jpg)
+![alt text](images/84166_0.jpg)
 
 4. 好みのキーキャップを装着します
 
-![alt text](84167_0.jpg)
+![alt text](images/84167_0.jpg)
 
 ## 最後に
 
