@@ -35,12 +35,8 @@ itachoco のキーボードを組み立てるためのビルドガイドです�
 
     ![alt text](images/image-1.png)
 
-5. `info.json` のファイルをドラッグアンドドロップ
 
-    ![alt text](images/Remap-infojson.png4)
-
-
-6. 画像のように `itachoco` のキーマップが表示されればOK
+5. 画像のように `itachoco` のキーマップが表示されればOK
 
     ![alt text](images/image-2.png)
 
