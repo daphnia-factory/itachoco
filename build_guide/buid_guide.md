@@ -25,15 +25,9 @@ itachoco のキーボードを組み立てるためのビルドガイドです�
 ### 1-2. ⚠️ rp2040zero の動作確認
 必ず組み立て前に実施してください
 
-1. `info.json` のダウンロード
-
-[こちらの URL](https://github.com/daphnia-factory/itachoco/blob/main/build_guide/info.json) から `info.json` をダウンロードしてください
-
-![alt text](images/infojson.png)
-
-2. パソコンにrp2040zeroを接続
-3. [REMAP](https://remap-keys.app/) へアクセス
-4. `CUSTOMIZE YOUR KEYBOARD` をクリック
+1. パソコンにrp2040zeroを接続
+2. [REMAP](https://remap-keys.app/) へアクセス
+3. `CUSTOMIZE YOUR KEYBOARD` をクリック
 
     ![alt text](images/image.png)
 
